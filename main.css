@@ -1,0 +1,15 @@
+.padding-element {
+  padding: 10px;
+}
+
+.row-text-truncate {
+  max-width: 250px;
+}
+
+.fa-check {
+  color: rgb(0, 151, 20);
+}
+
+.fa-times {
+  color: rgb(190, 0, 0);
+}
